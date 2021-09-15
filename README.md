@@ -1,4 +1,6 @@
-# game-projeto-ipInstalação:
+# game-projeto-ip
+
+Instalação:
 
 Instalar o Python a partir de : https://www.python.org/
 Instalar o Pycharm a partir de: https://www.jetbrains.com/pycharm/
